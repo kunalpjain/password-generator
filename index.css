@@ -1,0 +1,57 @@
+body {
+    margin: 20px;
+    background-color: #273549;
+}
+
+div {
+    margin: auto;
+}
+
+h1 {
+    margin: 0px;
+}
+
+h2 {
+    color: white;
+}
+
+#gen {
+    margin-top: 40px;
+    color: white;
+}
+
+#ran {
+    color: #55F991;
+}
+
+button {
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 17px 9px 15px;
+    background: #10B981;
+    border-radius: 6px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+hr {
+    margin-top: 20px;
+}
+
+#passwords-el {
+    display: flex;
+}
+
+.passwords {
+    border: 1px solid white;
+    width: 150%;
+    height: 24px;
+    text-align: center;
+    color: #55F991;
+    margin-right: 20px;
+}
